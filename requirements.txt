@@ -7,3 +7,4 @@ sqlalchemy
 streamlit
 plotly
 pytest
+cd
